@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Check out the live site](https://react-firebase-auth-form.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
